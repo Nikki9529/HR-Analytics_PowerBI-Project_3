@@ -17,9 +17,20 @@ Data Analysis Steps:
 5. Added a few Slicers for a better and easy understanding of the data.
 
 
+Few Insights from the Analysis (As per Me):
+1. Most numbers of employees who leave the company are employees who earn up to 5000 which is down below the Average salary of an Employee at the Company, So the Company will have to try to increase the wages for them or they will have to find some or the other ways to retain those Employees.
+2. The Attrition of the Employees in the Company are mostly Men and they fall in the age group between 26-35 years. The Company will have to bring some entertainment programs, some fresh ideas, and some youthful enjoyment in order to engage those youths to not leave the Company.
+3. More Employees are leaving the Company within 1-3 years of their joining.
+4. Usually people with Life Science and Medical Educational backgrounds are leaving the Company the most. The Company should try to retain those Employees.
+5. People from the job role such as Laboratory technicians and Sales Executives leave the company the most. 
+
+
 Learning:
 
 1. Created an Interactive dashboard to track and analyze online sales data.
 2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
 3. Created connections, and calculations to manipulate data and enable user-driven parameters for visualizations.
 4. Used different types of customized visualization.
+
+
+Data Source: https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og
